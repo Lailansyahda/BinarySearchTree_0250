@@ -20,4 +20,9 @@ class BinaryTree
 {
     public :
     Node *ROOT; // Pointer utama ke akar pohon (root node)
+
+    BinaryTree() // constructor
+    {
+
+    }
 }
