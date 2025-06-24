@@ -7,4 +7,10 @@ class Node
     int info;
     Node *leftchild;
     Node *rightchild;
+
+    //constructor for the node class
+    Node()
+    {
+        
+    }
 }
